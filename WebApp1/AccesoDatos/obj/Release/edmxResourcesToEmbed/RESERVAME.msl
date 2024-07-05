@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RESERVAMEModelStoreContainer" CdmEntityContainer="RESERVAMEEntities1">
+    <EntitySetMapping Name="RESTAURANTE">
+      <EntityTypeMapping TypeName="RESERVAMEModel.RESTAURANTE">
+        <MappingFragment StoreEntitySet="RESTAURANTE">
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="CodRest" ColumnName="CodRest" />
+          <ScalarProperty Name="Contacto" ColumnName="Contacto" />
+          <ScalarProperty Name="Latitud" ColumnName="Latitud" />
+          <ScalarProperty Name="Longitud" ColumnName="Longitud" />
+          <ScalarProperty Name="Parking" ColumnName="Parking" />
+          <ScalarProperty Name="Internet" ColumnName="Internet" />
+          <ScalarProperty Name="Visa" ColumnName="Visa" />
+          <ScalarProperty Name="Masterdcard" ColumnName="Masterdcard" />
+          <ScalarProperty Name="Valoracion" ColumnName="Valoracion" />
+          <ScalarProperty Name="CodTipo" ColumnName="CodTipo" />
+          <ScalarProperty Name="CodDescuento" ColumnName="CodDescuento" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Celular" ColumnName="Celular" />
+          <ScalarProperty Name="Horario" ColumnName="Horario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USUARIO">
+      <EntityTypeMapping TypeName="RESERVAMEModel.USUARIO">
+        <MappingFragment StoreEntitySet="USUARIO">
+          <ScalarProperty Name="FechaNac" ColumnName="FechaNac" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Celular" ColumnName="Celular" />
+          <ScalarProperty Name="Fullname" ColumnName="Fullname" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

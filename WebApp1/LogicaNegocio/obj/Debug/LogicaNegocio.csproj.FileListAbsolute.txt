@@ -1,0 +1,12 @@
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\bin\Debug\CursoSM.LogicaNegocio.dll
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\bin\Debug\CursoSM.LogicaNegocio.pdb
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\bin\Debug\CursoSM.AccesoDatos.dll
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\bin\Debug\EntityFramework.dll
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\bin\Debug\CursoSM.AccesoDatos.pdb
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\bin\Debug\CursoSM.AccesoDatos.dll.config
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\bin\Debug\EntityFramework.xml
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\obj\Debug\CursoSM.LogicaNegocio.dll
+D:\VisualStudio\Repos\WebApp1\LogicaNegocio\obj\Debug\CursoSM.LogicaNegocio.pdb

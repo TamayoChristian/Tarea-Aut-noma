@@ -1,0 +1,10 @@
+D:\VisualStudio\Repos\WebApp1\AccesoDatos\bin\Release\CursoSM.AccesoDatos.dll.config
+D:\VisualStudio\Repos\WebApp1\AccesoDatos\bin\Release\CursoSM.AccesoDatos.dll
+D:\VisualStudio\Repos\WebApp1\AccesoDatos\bin\Release\CursoSM.AccesoDatos.pdb
+D:\VisualStudio\Repos\WebApp1\AccesoDatos\bin\Release\EntityFramework.dll
+D:\VisualStudio\Repos\WebApp1\AccesoDatos\bin\Release\EntityFramework.xml
+D:\VisualStudio\Repos\WebApp1\AccesoDatos\obj\Release\AccesoDatos.csprojAssemblyReference.cache
+D:\VisualStudio\Repos\WebApp1\AccesoDatos\obj\Release\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Repos\WebApp1\AccesoDatos\obj\Release\AccesoDatos.csproj.CopyComplete
+D:\VisualStudio\Repos\WebApp1\AccesoDatos\obj\Release\CursoSM.AccesoDatos.dll
+D:\VisualStudio\Repos\WebApp1\AccesoDatos\obj\Release\CursoSM.AccesoDatos.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34930.48
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp1", "WebApp1\WebApp1.csproj", "{D7F7987C-597D-4C7A-9D07-319ABCF971E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{985E73F0-B98D-4ACF-A941-16B6B6B57FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocio", "LogicaNegocio\LogicaNegocio.csproj", "{6EFFDAB1-6581-4F65-892D-36249D3B397A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7F7987C-597D-4C7A-9D07-319ABCF971E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F7987C-597D-4C7A-9D07-319ABCF971E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F7987C-597D-4C7A-9D07-319ABCF971E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F7987C-597D-4C7A-9D07-319ABCF971E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985E73F0-B98D-4ACF-A941-16B6B6B57FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985E73F0-B98D-4ACF-A941-16B6B6B57FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985E73F0-B98D-4ACF-A941-16B6B6B57FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985E73F0-B98D-4ACF-A941-16B6B6B57FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFFDAB1-6581-4F65-892D-36249D3B397A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFFDAB1-6581-4F65-892D-36249D3B397A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFFDAB1-6581-4F65-892D-36249D3B397A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFFDAB1-6581-4F65-892D-36249D3B397A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96989BED-C635-49C4-9953-8DB75C3598E9}
+	EndGlobalSection
+EndGlobal
